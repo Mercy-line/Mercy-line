@@ -54,8 +54,9 @@ My goal is to become a **professional Mobile Developer** capable of building sca
   <img width="12" />
     <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
   <img width="12" />
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
-  <img width="12" />
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" /></code>
+<img width="12" />
+
   
 </div>
 

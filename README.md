@@ -1,4 +1,9 @@
 ## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://Mercy-line.github.io/Mercy-line/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://Mercy-line.github.io/Mercy-line/github-snake.svg" />
+  <img alt="github-snake" src="https://Mercy-line.github.io/Mercy-line/github-snake.svg" />
+</picture>
 
 <!--
 **Mercy-line/Mercy-line** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

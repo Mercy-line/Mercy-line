@@ -4,6 +4,15 @@ Aspiring Mobile Developer (in training) | UI/UX Designer | Frontend | IoT Enthus
 
 ---
 
+### My GitHub Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://Mercy-line.github.io/Mercy-line/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://Mercy-line.github.io/Mercy-line/github-snake.svg" />
+  <img alt="github-snake" src="https://Mercy-line.github.io/Mercy-line/github-snake.svg" />
+</picture>
+
+---
+
 ### About Me 
 I am a passionate and ambitious Computer Science student with a growing interest in **Mobile app development**, **UI/UX Design**, and **IOT Innovation.** I love designing and building simple, human centered, impactful and beautiful digital products.  
 Currently exploring the world of **mobile app development**, **React.js for web**, and connecting the real world with **IoT**.
@@ -47,15 +56,6 @@ I enjoy working on collaborative projects that bridge **technology and design**,
 - Email: mercylinenyaboke08@gmail.com  
 - Dribbble: https://dribbble.com/mercyline_08
 - Portfolio Website: 
-
----
-
-### My GitHub Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://Mercy-line.github.io/Mercy-line/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://Mercy-line.github.io/Mercy-line/github-snake.svg" />
-  <img alt="github-snake" src="https://Mercy-line.github.io/Mercy-line/github-snake.svg" />
-</picture>
 
 ---
 

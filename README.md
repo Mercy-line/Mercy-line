@@ -37,6 +37,10 @@ My goal is to become a **professional Mobile Developer** capable of building sca
 | **Mobile** | Flutter (learning), Android Studio |
 | **Version Control** | Git & GitHub |
 | **Other** | VS Code, Firebase, Node.js (basics) |
+<div align="left">
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
+  <img width="12" />
+</div>
 
 ---
 
@@ -59,8 +63,8 @@ I enjoy working on collaborative projects that bridge **technology and design**,
 
 ---
 
->  *“Building technology that solves real problems while keeping people at the center.
-> Design with empathy. Build with precision. Deliver with impact. Life is great. Forever a Favoured Gal”*
+>  **“Building technology that solves real problems while keeping people at the center.
+> Design with empathy. Build with precision. Deliver with impact. Life is great. Forever a Favoured Gal”**
 <!--
 **Mercy-line/Mercy-line** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

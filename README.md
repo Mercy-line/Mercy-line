@@ -30,20 +30,12 @@ My goal is to become a **professional Mobile Developer** capable of building sca
 ---
 
 ### Tech & Tools
-| Area | Tools I Use |
-|------|--------------|
-| **Design** | Figma |
-| **Frontend** | React.js, HTML, CSS, JavaScript |
-| **Mobile** | Flutter (learning), Android Studio |
-| **Version Control** | Git & GitHub |
-| **Other** | VS Code, Firebase, Node.js (basics) |
 <div align="left">
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" /></code>
 <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" /></code>
 <img width="12" />
-
-   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
   <img width="12" />
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
   <img width="12" />

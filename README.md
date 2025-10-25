@@ -17,7 +17,7 @@ Aspiring Mobile Developer (in training) | UI/UX Designer | Frontend | IoT Enthus
 I am a passionate and ambitious Computer Science student with a growing interest in **Mobile app development**, **UI/UX Design**, and **IOT Innovation.** I love designing and building simple, human centered, impactful and beautiful digital products.  
 Currently exploring the world of **mobile app development**, **React.js for web**, and connecting the real world with **IoT**.
 
-My goal is to become a **professional Mobile Developer** capable of building scalable, intuitive appa that bridge the gap between technology and everyday life.
+My goal is to become a **professional Mobile Developer** capable of building scalable, intuitive apps that bridge the gap between technology and everyday life.
 
 ---
 
@@ -52,6 +52,8 @@ My goal is to become a **professional Mobile Developer** capable of building sca
     <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
   <img width="12" />
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" /></code>
+<img width="12" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" /></code>
 <img width="12" />
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="android studio logo" /></code>
 <img width="12" />  

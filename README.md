@@ -1,6 +1,8 @@
 ## Hi there 👋 I am Mercyline Nyaboke Mokua
-## Aspiring Mobile Developer | UI/UX Designer | Frontend | IoT Enthusiast
 
+---
+
+## Aspiring Mobile Developer | UI/UX Designer | Frontend | IoT Enthusiast
 I am a passionate Computer Science student who loves designing and building simple, human centered, impactful and beautiful digital products.  
 Currently exploring the world of **mobile app development**, **React.js for web**, and connecting the real world with **IoT**.
 
@@ -31,7 +33,12 @@ Currently exploring the world of **mobile app development**, **React.js for web*
 
 ---
 
-### Let's Connect
+### Collaboration
+I enjoy working on collaborative projects that bridge **technology and design**, and I am always open to contributing to open source or community driven initiatives, competitions and hackathons
+
+---
+
+### Let us Connect
 - LinkedIn: https://www.linkedin.com/in/mercyline-nyaboke-ba87112a7  
 - Email: mercylinenyaboke08@gmail.com  
 - Dribbble: https://dribbble.com/mercyline_08
@@ -39,13 +46,16 @@ Currently exploring the world of **mobile app development**, **React.js for web*
 
 ---
 
-### 🐍 My GitHub Activity
+### My GitHub Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://Mercy-line.github.io/Mercy-line/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://Mercy-line.github.io/Mercy-line/github-snake.svg" />
   <img alt="github-snake" src="https://Mercy-line.github.io/Mercy-line/github-snake.svg" />
 </picture>
 
+---
+
+>  *“Building technology that solves real problems while keeping people at the center.”*
 <!--
 **Mercy-line/Mercy-line** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,10 +1,11 @@
-## Hi there 👋 I am Mercyline Nyaboke Mokua
+### Hi there 👋 I am Mercyline Nyaboke Mokua
+
 Aspiring Mobile Developer (in training) | UI/UX Designer | Frontend | IoT Enthusiast
 
 ---
 
 ### About Me 
-I am a passionate and ambitious Computer Science student with a growing interest in **Mobile app development**, **UI/UX Design**, and **IOT Innovation** I love designing and building simple, human centered, impactful and beautiful digital products.  
+I am a passionate and ambitious Computer Science student with a growing interest in **Mobile app development**, **UI/UX Design**, and **IOT Innovation.** I love designing and building simple, human centered, impactful and beautiful digital products.  
 Currently exploring the world of **mobile app development**, **React.js for web**, and connecting the real world with **IoT**.
 
 My goal is to become a **professional Mobile Developer** capable of building scalable, intuitive appa that bridge the gap between technology and everyday life.
@@ -59,7 +60,7 @@ I enjoy working on collaborative projects that bridge **technology and design**,
 ---
 
 >  *“Building technology that solves real problems while keeping people at the center.
-> Design with empathy. Build with precision. Deliver with impact. ”*
+> Design with empathy. Build with precision. Deliver with impact. Life is great. Forever a Favoured Gal”*
 <!--
 **Mercy-line/Mercy-line** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

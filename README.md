@@ -1,15 +1,15 @@
 ## Hi there 👋 I am Mercyline Nyaboke Mokua
-🚀 **Mobile Developer | UI/UX Designer | IoT & Frontend Enthusiast**
+ Aspiring Mobile Developer | UI/UX Designer | Frontend | IoT Enthusiast**
 
-I'm a passionate Computer Science student who loves building simple, human-centered digital experiences.  
-Currently exploring **mobile app development**, **React.js for web**, and connecting the real world with **IoT**.
+I am a passionate Computer Science student who loves designing and building simple, human centered, impactful and beautiful digital products.  
+Currently exploring the world of **mobile app development**, **React.js for web**, and connecting the real world with **IoT**.
 
 ---
 
 ### 💡 What I Do
-- 📱 Designing and prototyping mobile apps using **Figma**
+- 📱 Designing and prototyping mobile apps and websites using **Figma**
+- 📱 Designer for **MMUST IHUB**
 - ⚛️ Building beautiful interfaces with **React.js**
-- 🧠 Exploring IoT — connecting sensors, ESP32 boards, and real-time data
 - 💬 Leading and learning with **Google Developer Student Clubs (GDG MMUST)**
 
 ---
@@ -17,32 +17,29 @@ Currently exploring **mobile app development**, **React.js for web**, and connec
 ### 🛠️ Tech & Tools
 | Area | Tools I Use |
 |------|--------------|
-| **Design** | Figma, Adobe XD |
+| **Design** | Figma |
 | **Frontend** | React.js, HTML, CSS, JavaScript |
 | **Mobile** | Flutter (learning), Android Studio |
-| **IoT** | ESP32, Arduino IDE, Sensors |
 | **Version Control** | Git & GitHub |
 | **Other** | VS Code, Firebase, Node.js (basics) |
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced mobile development (Flutter & React Native)
+- Advanced mobile development (Flutter/Dart)
 - UI/UX design systems & accessibility
-- Integrating IoT data into web/mobile dashboards
 
 ---
 
 ### 💬 Let's Connect
-- 🌍 [LinkedIn](https://www.linkedin.com/in/mercyline-nyaboke)  
-- 💌 Email: *your email here*  
-- 🎨 [Dribbble](https://dribbble.com/) (for your designs)  
-- 💻 [Portfolio Website](#) (optional – add later)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/mercyline-nyaboke-ba87112a7)  
+- 💌 Email: mercylinenyaboke08@gmail.com  
+- 🎨 [Dribbble](https://dribbble.com/mercyline_08) 
+- 💻 [Portfolio Website](#)
 
 ---
 
 ### 🐍 My GitHub Activity
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://Mercy-line.github.io/Mercy-line/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://Mercy-line.github.io/Mercy-line/github-snake.svg" />

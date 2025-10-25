@@ -13,10 +13,10 @@ My goal is to become a **professional Mobile Developer** capable of building sca
 ---
 
 ### What I Do
-- 📱 Designing and prototyping mobile apps and websites using **Figma**
-- 📱 Designer for **MMUST IHUB**
-- ⚛️ Building beautiful interfaces with **React.js**
-- 💬 Leading and learning with **Google Developer Student Clubs (GDG MMUST)**
+- Designing and prototyping mobile apps and websites using **Figma**
+- Designer for **MMUST IHUB**
+- Building beautiful interfaces with **React.js**
+- Leading and learning with **Google Developer Student Clubs (GDG MMUST)**
 
 ---
 

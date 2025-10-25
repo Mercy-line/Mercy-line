@@ -1,12 +1,12 @@
 ## Hi there 👋 I am Mercyline Nyaboke Mokua
- Aspiring Mobile Developer | UI/UX Designer | Frontend | IoT Enthusiast**
+## Aspiring Mobile Developer | UI/UX Designer | Frontend | IoT Enthusiast
 
 I am a passionate Computer Science student who loves designing and building simple, human centered, impactful and beautiful digital products.  
 Currently exploring the world of **mobile app development**, **React.js for web**, and connecting the real world with **IoT**.
 
 ---
 
-### 💡 What I Do
+### What I Do
 - 📱 Designing and prototyping mobile apps and websites using **Figma**
 - 📱 Designer for **MMUST IHUB**
 - ⚛️ Building beautiful interfaces with **React.js**
@@ -14,7 +14,7 @@ Currently exploring the world of **mobile app development**, **React.js for web*
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 | Area | Tools I Use |
 |------|--------------|
 | **Design** | Figma |
@@ -25,17 +25,17 @@ Currently exploring the world of **mobile app development**, **React.js for web*
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Advanced mobile development (Flutter/Dart)
 - UI/UX design systems & accessibility
 
 ---
 
-### 💬 Let's Connect
-- 🌍 [LinkedIn](https://www.linkedin.com/in/mercyline-nyaboke-ba87112a7)  
-- 💌 Email: mercylinenyaboke08@gmail.com  
-- 🎨 [Dribbble](https://dribbble.com/mercyline_08) 
-- 💻 [Portfolio Website](#)
+### Let's Connect
+- LinkedIn: https://www.linkedin.com/in/mercyline-nyaboke-ba87112a7  
+- Email: mercylinenyaboke08@gmail.com  
+- Dribbble: https://dribbble.com/mercyline_08
+- Portfolio Website: 
 
 ---
 

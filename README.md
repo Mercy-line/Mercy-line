@@ -62,9 +62,7 @@ My goal is to become a **professional Mobile Developer** capable of building sca
 ---
 
 ### Currently Learning
-- Advanced mobile development with <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" /></code>
-<img width="12" /> and <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" /></code>
-<img width="12" />
+- Advanced mobile development with Flutter/Dart
 - UI/UX design systems & accessibility
 
 ---
